@@ -379,7 +379,7 @@ footer .credit a {
 }
 
 /*  phone */
-@media (max-width: 308px) {
+@media (max-width: 400px) {
   html {
     font-size: 40%;
   }
