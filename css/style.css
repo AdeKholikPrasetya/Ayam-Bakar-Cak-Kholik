@@ -379,7 +379,7 @@ footer .credit a {
 }
 
 /*  phone */
-@media (max-width: 450px) {
+@media (max-width: 308px) {
   html {
     font-size: 40%;
   }
@@ -391,7 +391,7 @@ footer .credit a {
     top: 100%;
     right: -100%;
     background-color: #fff;
-    width: 25rem;
+    width: 24rem;
     height: 100vh;
     transition: 0.3s;
   }
