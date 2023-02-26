@@ -401,7 +401,7 @@ footer .credit a {
   .navbar .navbar-nav a {
     color: var(--bg);
     display: block;
-    margin: 1.5rem;
+    margin: 1rem;
     padding: 0.5rem;
     font-size: 2rem;
   }
@@ -418,9 +418,11 @@ footer .credit a {
     flex-wrap: wrap;
   }
   .about .row .about-img img {
-    height: 24rem;
-    object-fit: cover;
-    object-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex: 1 0 90%;
   }
   .about .row .content {
     padding: 0;
