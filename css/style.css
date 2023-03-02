@@ -379,9 +379,9 @@ footer .credit a {
 }
 
 /*  phone */
-@media (max-width: 350px) {
+@media (max-width: 450px) {
   html {
-    font-size: 40%;
+    font-size: 35%;
   }
   #hamburger-menu {
     display: inline-block;
