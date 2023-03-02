@@ -381,7 +381,7 @@ footer .credit a {
 /*  phone */
 @media (max-width: 450px) {
   html {
-    font-size: 8px;
+    font-size: 15px;
   }
   #hamburger-menu {
     display: inline-block;
